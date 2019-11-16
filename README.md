@@ -3,8 +3,10 @@
 ## 环境
 
 	* PYTHON
+	* 已安装MongoDB数据库
 	* Chrome浏览器 / chromedriver
 	* selenium库
+	* pymongo库
 	* time库
 
 ## 实现思路
